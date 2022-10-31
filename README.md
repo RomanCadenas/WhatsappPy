@@ -3,5 +3,5 @@ Programa para enviar WhatsApps a una lista de Contactos/Grupos masivamente, util
 ---
 Se requiere instalar selenium via pip
 
-'pip install selenium'
+''pip install selenium''
 
